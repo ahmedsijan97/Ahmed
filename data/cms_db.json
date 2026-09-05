@@ -1,0 +1,1098 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2026-09-02T07:29:03.004Z",
+  "lastPublished": "2026-09-02T07:23:46.223Z",
+  "users": [
+    {
+      "id": "user-admin-1",
+      "username": "Sayed10",
+      "passwordHash": "$2b$10$0NkmsUQ85jR1Emer4GN.eOeariKgqA1iHkaGzBGbJ0QSPdBBi4Wl6",
+      "role": "superadmin",
+      "mustChangePassword": true,
+      "createdAt": "2026-09-02T07:23:46.223Z",
+      "updatedAt": "2026-09-02T07:23:46.223Z",
+      "lastLogin": "2026-09-02T07:29:03.004Z"
+    }
+  ],
+  "personalInfo": {
+    "name": "Sayed Ahmed Sijan",
+    "title": "Digital Marketer & AI Performance Specialist",
+    "professionalName": "Sayed Ahmed Sijan",
+    "badge": "AVAILABLE FOR SELECT PROJECTS",
+    "avatar": "/assets/profile.jpg",
+    "headline": "I Turn Marketing Data Into Measurable Growth.",
+    "supportingText": "Digital Marketer & AI Performance Specialist helping e-commerce and local brands scale with data-driven Ads, SEO, and AI automation.",
+    "bio": "Helping e-commerce and local brands scale with data-driven Ads, SEO & AI automation. Combining deep analytical science with high-velocity algorithmic advertising and automated Python workflows to maximize customer acquisition and ROAS.",
+    "email": "Ahmedsijan97@gmail.com",
+    "phone": "+880 1763 810310",
+    "whatsappUrl": "https://wa.me/8801763810310?text=Hi%20Sayed,%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project!",
+    "location": "Gaibandha / Dhaka, Bangladesh (Available Worldwide Remote)",
+    "nationality": "Bangladeshi",
+    "address": "Gaibandha & Dhaka, Bangladesh",
+    "github": "https://github.com/sayedahmedsijan",
+    "linkedin": "https://linkedin.com/in/sayed-ahmed-sijan",
+    "facebook": "https://www.facebook.com/ahmedsijan310",
+    "website": "https://sayedahmedsijan.com",
+    "education": "B.Sc (Honours) in Science, National University Gaibandha",
+    "academicBackground": "B.Sc (Hon’s) National University | Science & Analytical Research Foundation",
+    "cvUrl": "/assets/Sayed_Ahmed_Sijan_CV.pdf"
+  },
+  "hero": {
+    "greeting": "HELLO, I'M SAYED AHMED SIJAN",
+    "name": "Sayed Ahmed Sijan",
+    "professionalTitle": "Digital Marketer & AI Performance Specialist",
+    "mainHeadline": "I Turn Marketing Data Into Measurable Growth",
+    "headlineHighlight": "Measurable Growth",
+    "shortDescription": "Helping e-commerce and local brands scale with data-driven Ads, SEO, and AI automation. Managed over $4.2M+ ad spend with 3.8x average blended ROAS.",
+    "profileImage": "/assets/profile.jpg",
+    "primaryButtonText": "Explore Case Studies",
+    "primaryButtonUrl": "#case-studies",
+    "secondaryButtonText": "Book Strategy Call",
+    "secondaryButtonUrl": "#contact",
+    "availabilityStatus": "Available Now",
+    "availabilityText": "Accepting select new Q3/Q4 retainer clients worldwide",
+    "floatingMetrics": [
+      {
+        "label": "Average ROAS Boost",
+        "value": "+147%",
+        "change": "Scaled from 1.8x to 4.4x",
+        "isPositive": true,
+        "tag": "Meta & Google Ads"
+      },
+      {
+        "label": "Organic Search Traffic",
+        "value": "+82%",
+        "change": "+14.2k monthly visitors",
+        "isPositive": true,
+        "tag": "Technical SEO"
+      },
+      {
+        "label": "Customer Acq. Cost (CPA)",
+        "value": "-34%",
+        "change": "Blended cost reduction",
+        "isPositive": true,
+        "tag": "Funnel Optimization"
+      },
+      {
+        "label": "Store Conversion Rate",
+        "value": "+61%",
+        "change": "From 1.9% to 3.1%",
+        "isPositive": true,
+        "tag": "CRO & AI Testing"
+      }
+    ],
+    "trustStats": [
+      {
+        "value": "5+",
+        "numericValue": 5,
+        "suffix": "+ Years",
+        "label": "Experience",
+        "description": "Driving scalable performance marketing & growth engineering"
+      },
+      {
+        "value": "80+",
+        "numericValue": 80,
+        "suffix": "+ Projects",
+        "label": "Projects Completed",
+        "description": "Across e-commerce, D2C, B2B SaaS, and local service brands"
+      },
+      {
+        "value": "35+",
+        "numericValue": 35,
+        "suffix": "+ Brands",
+        "label": "Brands Scaled",
+        "description": "Achieving consistent positive cash flow and market dominance"
+      },
+      {
+        "value": "3.8x",
+        "numericValue": 3.8,
+        "suffix": "x Avg",
+        "label": "Average ROAS",
+        "description": "Tested across paid social, search, and automated retargeting"
+      },
+      {
+        "value": "$4.2M+",
+        "numericValue": 4.2,
+        "suffix": "M+ Spent",
+        "label": "Ad Spend Managed",
+        "description": "Profitable capital allocation across Meta, Google & TikTok"
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "Scientific Analytical Mind Meets High-Velocity Growth Engineering",
+    "shortIntro": "From a rigorous Bachelor of Science (B.Sc Honours) foundation in Gaibandha to engineering multi-million dollar performance campaigns worldwide.",
+    "detailedBio": "I specialize in full-funnel digital advertising, programmatic SEO, and custom Python automation. By combining empirical quantitative analysis with algorithmic ad placement, I eliminate guesswork from digital marketing. Every dollar spent is tracked down to the exact keyword, creative hook, and customer acquisition cost.",
+    "mission": "To empower forward-thinking brands with transparent, high-ROI marketing systems powered by algorithmic precision and autonomous AI workflows.",
+    "vision": "To bridge data science, creative psychology, and marketing automation into seamless growth flywheels that scale revenue sustainably.",
+    "careerSummary": "Over 5+ years of hands-on media buying, 80+ completed projects, $4.2M+ in managed ad spend, and consistently ranking client websites on page 1 of Google.",
+    "profileImage": "/assets/profile.jpg",
+    "signatureText": "Sayed Ahmed Sijan",
+    "experienceHighlights": [
+      "B.Sc (Honours) Quantitative Analytical Background",
+      "Meta Certified Media Buying & Advantage+ Specialist",
+      "Google Ads Search & Performance Max Certified",
+      "Python Scripting for Ad Automation & API Reporting",
+      "Advanced Server-Side GTM & Meta CAPI Attribution"
+    ]
+  },
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Bachelor of Science (B.Sc Honours)",
+      "institution": "National University Gaibandha",
+      "department": "Science & Quantitative Analysis",
+      "location": "Gaibandha, Bangladesh",
+      "startDate": "2016",
+      "endDate": "2020",
+      "currentlyStudying": false,
+      "description": "Developed rigorous scientific hypothesis testing, mathematical modeling, and structured statistical analysis skills that form the bedrock of my marketing experimentation frameworks.",
+      "logoUrl": "",
+      "displayOrder": 1,
+      "published": true
+    },
+    {
+      "id": "edu-2",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "institution": "Gaibandha Govt. College",
+      "department": "Science Division",
+      "location": "Gaibandha, Bangladesh",
+      "startDate": "2014",
+      "endDate": "2016",
+      "currentlyStudying": false,
+      "description": "Focused on higher mathematics, physics, and computational logic with outstanding academic performance.",
+      "logoUrl": "",
+      "displayOrder": 2,
+      "published": true
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "Sayed Ahmed Sijan Consultancy",
+      "position": "Lead Growth Strategist & AI Marketer",
+      "period": "2025 – Present",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "currentlyWorking": true,
+      "location": "Global Remote",
+      "type": "Full-Time / Retainer",
+      "description": "Partnering with high-growth e-commerce and local service businesses to engineer scalable omni-channel acquisition architectures.",
+      "responsibilities": [
+        "Directing comprehensive Meta & Google Ads budgets exceeding $150k/month.",
+        "Deploying custom Python scripts for real-time CPA alerting and dynamic creative copy generation.",
+        "Implementing privacy-compliant server-side tracking (Meta CAPI + GA4) for zero attribution leakage."
+      ],
+      "achievements": [
+        "Maintained 94% client retention rate across retainer portfolio.",
+        "Delivered average 3.8x blended ROAS across 15+ concurrent brand accounts."
+      ],
+      "quantifiableResults": [
+        {
+          "metric": "Average ROAS",
+          "impact": "3.8x Blended"
+        },
+        {
+          "metric": "Retention Rate",
+          "impact": "94%+"
+        }
+      ],
+      "tools": [
+        "Meta Ads Manager",
+        "Google Ads PMax",
+        "Python Automation",
+        "GA4",
+        "Meta CAPI",
+        "Looker Studio"
+      ],
+      "featuredProject": "D2C Scale Flywheel",
+      "displayOrder": 1,
+      "published": true
+    },
+    {
+      "id": "exp-2",
+      "company": "Growth Velocity Studio",
+      "position": "AI Performance Marketing Engineer",
+      "period": "2023 – 2025",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "currentlyWorking": false,
+      "location": "Global Remote",
+      "type": "Senior Specialist",
+      "description": "Built automated campaign optimization scripts and structured creative testing pipelines across Meta, TikTok, and Google.",
+      "responsibilities": [
+        "Engineered automated Python reporting dashboards pulling live Meta Graph API data.",
+        "Tested 50+ ad angles per week using AI-assisted creative matrices.",
+        "Conducted deep CRO audits on Shopify checkouts and landing pages."
+      ],
+      "achievements": [
+        "Scaled D2C apparel brand from $15k/mo to $110k/mo in 6 months.",
+        "Reduced client average Customer Acquisition Cost by 34%."
+      ],
+      "quantifiableResults": [
+        {
+          "metric": "CAC Reduction",
+          "impact": "-34%"
+        },
+        {
+          "metric": "Attributed Revenue",
+          "impact": "$1.8M+"
+        }
+      ],
+      "tools": [
+        "Python",
+        "OpenAI API",
+        "Zapier",
+        "Shopify Analytics",
+        "Looker Studio",
+        "Ahrefs"
+      ],
+      "featuredProject": "Apparel E-Commerce Scaling",
+      "displayOrder": 2,
+      "published": true
+    },
+    {
+      "id": "exp-3",
+      "company": "Independent Performance Consultant",
+      "position": "Senior Paid Media & SEO Specialist",
+      "period": "2021 – 2023",
+      "startDate": "2021-01-01",
+      "endDate": "2023-01-01",
+      "currentlyWorking": false,
+      "location": "Remote",
+      "type": "Contract / Project",
+      "description": "Managed full-funnel paid search, paid social, and technical SEO campaigns for regional and international clients.",
+      "responsibilities": [
+        "Structured Google Ads search intent funnels capturing high-converting buyer keywords.",
+        "Conducted comprehensive on-page and technical SEO overhauls.",
+        "Architected multi-stage retargeting funnels on Facebook & Instagram."
+      ],
+      "achievements": [
+        "Generated 320% increase in qualified inbound leads for regional HVAC/Solar clients.",
+        "Ranked 12 client domains on page 1 of Google for competitive commercial keywords."
+      ],
+      "quantifiableResults": [
+        {
+          "metric": "Organic Traffic",
+          "impact": "+82%"
+        },
+        {
+          "metric": "Lead Volume",
+          "impact": "+320%"
+        }
+      ],
+      "tools": [
+        "Google Ads",
+        "Meta Ads",
+        "Semrush",
+        "Screaming Frog",
+        "WordPress",
+        "Google Search Console"
+      ],
+      "featuredProject": "Local Contractor Lead Engine",
+      "displayOrder": 3,
+      "published": true
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "name": "Meta Ads & Advantage+ Shopping",
+      "category": "Paid Advertising",
+      "level": "Advanced",
+      "description": "Deep mastery of CBO, Advantage+ Shopping campaigns, creative matrix testing, and custom audience segmentation.",
+      "proficiencyScore": 96,
+      "yearsExperience": 5,
+      "icon": "TrendingUp",
+      "tools": [
+        "Meta Ads Manager",
+        "Meta Pixel",
+        "CAPI",
+        "Catalog Manager"
+      ],
+      "relatedProjects": [
+        "D2C Apparel Scaling",
+        "Skincare Retargeting Funnel"
+      ],
+      "displayOrder": 1,
+      "published": true
+    },
+    {
+      "id": "skill-2",
+      "name": "Google Ads & Performance Max",
+      "category": "Paid Advertising",
+      "level": "Advanced",
+      "description": "Architecting high-intent Search, Shopping feeds, and automated Performance Max asset groups.",
+      "proficiencyScore": 94,
+      "yearsExperience": 5,
+      "icon": "Target",
+      "tools": [
+        "Google Ads",
+        "Merchant Center",
+        "Keyword Planner",
+        "PMax Scripts"
+      ],
+      "relatedProjects": [
+        "HVAC Contractor Leads",
+        "B2B SaaS Lead Gen"
+      ],
+      "displayOrder": 2,
+      "published": true
+    },
+    {
+      "id": "skill-3",
+      "name": "Technical SEO & Local Map Pack",
+      "category": "SEO",
+      "level": "Advanced",
+      "description": "Core Web Vitals optimization, structured data schema, crawl budget resolution, and Google Business Profile ranking.",
+      "proficiencyScore": 92,
+      "yearsExperience": 4,
+      "icon": "Search",
+      "tools": [
+        "Ahrefs",
+        "Semrush",
+        "Screaming Frog",
+        "Google Search Console"
+      ],
+      "relatedProjects": [
+        "Multi-Location Local SEO",
+        "E-commerce Organic Lift"
+      ],
+      "displayOrder": 3,
+      "published": true
+    },
+    {
+      "id": "skill-4",
+      "name": "AI Marketing Automation & Python",
+      "category": "AI & Automation",
+      "level": "Advanced",
+      "description": "Custom Python scripts for API data extraction, Telegram alert bots, and automated AI ad copy generation.",
+      "proficiencyScore": 90,
+      "yearsExperience": 3,
+      "icon": "Bot",
+      "tools": [
+        "Python",
+        "Meta Graph API",
+        "OpenAI/Gemini APIs",
+        "Zapier/Make"
+      ],
+      "relatedProjects": [
+        "Real-Time CPA Alert Bot",
+        "AI Ad Hook Engine"
+      ],
+      "displayOrder": 4,
+      "published": true
+    },
+    {
+      "id": "skill-5",
+      "name": "Conversion Rate Optimization (CRO)",
+      "category": "Strategy",
+      "level": "Advanced",
+      "description": "Landing page architecture, psychological hook design, checkout friction reduction, and A/B split testing.",
+      "proficiencyScore": 93,
+      "yearsExperience": 4,
+      "icon": "Zap",
+      "tools": [
+        "Hotjar",
+        "Microsoft Clarity",
+        "Shopify Liquid",
+        "Google Optimize/VWO"
+      ],
+      "relatedProjects": [
+        "E-Commerce Checkout Revamp",
+        "High-Converting Squeeze Page"
+      ],
+      "displayOrder": 5,
+      "published": true
+    },
+    {
+      "id": "skill-6",
+      "name": "GA4 Server-Side & Meta CAPI Tracking",
+      "category": "Analytics",
+      "level": "Advanced",
+      "description": "Privacy-first server-side tracking, GTM dataLayer implementation, and multi-touch attribution modeling.",
+      "proficiencyScore": 95,
+      "yearsExperience": 4,
+      "icon": "BarChart2",
+      "tools": [
+        "Google Tag Manager",
+        "Stape.io / Cloud Run",
+        "GA4",
+        "Meta CAPI"
+      ],
+      "relatedProjects": [
+        "Server-Side Attribution Pipeline"
+      ],
+      "displayOrder": 6,
+      "published": true
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-1",
+      "title": "Meta Certified Media Buying Professional",
+      "issuer": "Meta Blueprint",
+      "issueDate": "2024-03-15",
+      "doesNotExpire": true,
+      "credentialId": "META-MB-8472910",
+      "category": "Advertising",
+      "skillsCovered": [
+        "CBO Scaling",
+        "Advantage+ Campaigns",
+        "Audience Strategy",
+        "Measurement"
+      ],
+      "verificationUrl": "https://www.credly.com/org/meta",
+      "image": "/assets/profile.jpg",
+      "badgeColor": "border-blue-500/40 text-blue-400",
+      "description": "Industry-standard certification validating elite competency in scaling multi-million dollar ad budgets on Facebook & Instagram.",
+      "displayOrder": 1,
+      "published": true
+    },
+    {
+      "id": "cert-2",
+      "title": "Google Ads Search & Performance Max Certification",
+      "issuer": "Google Skillshop",
+      "issueDate": "2024-02-10",
+      "doesNotExpire": true,
+      "credentialId": "GGL-SRCH-9923841",
+      "category": "Advertising",
+      "skillsCovered": [
+        "Search Intent",
+        "Smart Bidding",
+        "PMax Feed Optimization",
+        "Audience Signals"
+      ],
+      "verificationUrl": "https://skillshop.exceedlms.com",
+      "image": "/assets/profile.jpg",
+      "badgeColor": "border-amber-500/40 text-amber-400",
+      "description": "Comprehensive certification demonstrating mastery of Google Search bidding strategies, Quality Score maximization, and PMax.",
+      "displayOrder": 2,
+      "published": true
+    },
+    {
+      "id": "cert-3",
+      "title": "Google Analytics 4 (GA4) Certification",
+      "issuer": "Google Analytics Academy",
+      "issueDate": "2023-11-20",
+      "doesNotExpire": true,
+      "credentialId": "GA4-ADV-3104921",
+      "category": "Analytics",
+      "skillsCovered": [
+        "Event-Driven Data Modeling",
+        "Custom Explorations",
+        "Conversion Funnels",
+        "BigQuery Export"
+      ],
+      "verificationUrl": "https://skillshop.exceedlms.com",
+      "image": "/assets/profile.jpg",
+      "badgeColor": "border-emerald-500/40 text-emerald-400",
+      "description": "Advanced validation in configuring event tracking, conversion metrics, custom reports, and GA4 attribution modeling.",
+      "displayOrder": 3,
+      "published": true
+    },
+    {
+      "id": "cert-4",
+      "title": "Advanced Technical SEO & Link Building",
+      "issuer": "Semrush Academy",
+      "issueDate": "2023-08-14",
+      "doesNotExpire": true,
+      "credentialId": "SMR-TECH-5021892",
+      "category": "SEO",
+      "skillsCovered": [
+        "Core Web Vitals",
+        "Schema Markup",
+        "Log File Analysis",
+        "Crawl Optimization"
+      ],
+      "verificationUrl": "https://www.semrush.com/academy",
+      "image": "/assets/profile.jpg",
+      "badgeColor": "border-orange-500/40 text-orange-400",
+      "description": "Specialized credentials in diagnosing server bottlenecks, structured microdata, and organic ranking algorithms.",
+      "displayOrder": 4,
+      "published": true
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "D2C Streetwear Brand Scale ($15k to $110k/mo)",
+      "slug": "d2c-streetwear-scale",
+      "category": "Marketing Campaigns",
+      "shortDescription": "Scaled a high-growth apparel brand using Advantage+ Shopping Campaigns, UGC hook testing, and dynamic product catalogs.",
+      "fullDescription": "Restructured the entire paid acquisition funnel across Meta and TikTok. Built a dynamic creative testing flywheel testing 15 new hooks every Monday. Optimized the Shopify theme checkout process resulting in a 4.2x average ROAS over 6 consecutive months.",
+      "thumbnail": "/assets/profile.jpg",
+      "tools": [
+        "Meta Ads",
+        "TikTok Ads",
+        "Shopify Liquid",
+        "TripleWhale",
+        "CapCut"
+      ],
+      "client": "Aura Streetwear Co.",
+      "projectDate": "2024",
+      "result": "Scaled monthly revenue by 633% while lowering CPA from $38 to $21.",
+      "metrics": [
+        {
+          "label": "Monthly Revenue",
+          "value": "$110,000+"
+        },
+        {
+          "label": "Blended ROAS",
+          "value": "4.2x"
+        },
+        {
+          "label": "CPA Reduction",
+          "value": "-44%"
+        }
+      ],
+      "liveUrl": "https://example.com/case-study-1",
+      "featured": true,
+      "published": true,
+      "displayOrder": 1
+    },
+    {
+      "id": "proj-2",
+      "title": "Local Solar & Roofing Contractor Lead Engine",
+      "slug": "solar-roofing-lead-engine",
+      "category": "SEO Projects",
+      "shortDescription": "Generated 320% increase in high-ticket inbound leads through Google Map Pack optimization and hyper-targeted search ads.",
+      "fullDescription": "Engineered a hyper-local SEO ranking architecture across 8 service municipalities. Optimized Google Business Profiles with geotagged media, citation cleanup, and schema review markup. Paired with high-intent exact match Google Search ads.",
+      "thumbnail": "/assets/profile.jpg",
+      "tools": [
+        "Google Ads",
+        "Google Business Profile",
+        "BrightLocal",
+        "WordPress",
+        "CallRail"
+      ],
+      "client": "Apex Solar & Roofing",
+      "projectDate": "2024",
+      "result": "Generated 140+ monthly qualified residential solar leads at 38% lower cost per lead.",
+      "metrics": [
+        {
+          "label": "Qualified Leads",
+          "value": "140+/mo"
+        },
+        {
+          "label": "Cost Per Lead",
+          "value": "$32.50"
+        },
+        {
+          "label": "Local 3-Pack Rank",
+          "value": "#1 in 8 Cities"
+        }
+      ],
+      "liveUrl": "https://example.com/case-study-2",
+      "featured": true,
+      "published": true,
+      "displayOrder": 2
+    },
+    {
+      "id": "proj-3",
+      "title": "Autonomous Python Ad Monitoring & Alerting Bot",
+      "slug": "python-ad-monitoring-bot",
+      "category": "AI Automation",
+      "shortDescription": "Developed a real-time Python daemon that audits Meta ad accounts every 15 minutes and triggers instant alerts on Slack/Telegram.",
+      "fullDescription": "Custom automated Python workflow utilizing Meta Graph API. Tracks rolling hourly ROAS, CPA drift, and budget pacing. If an ad set spikes over target CPA by 25%, the bot sends immediate Telegram alert and automatically applies emergency bid adjustment.",
+      "thumbnail": "/assets/profile.jpg",
+      "tools": [
+        "Python",
+        "Meta Graph API",
+        "Telegram Bot API",
+        "Google Cloud Run",
+        "Docker"
+      ],
+      "client": "Internal Growth Tooling",
+      "projectDate": "2024",
+      "result": "Saved an estimated $42,000 in prevented ad spend leakage across 20 client accounts.",
+      "metrics": [
+        {
+          "label": "Audit Interval",
+          "value": "Every 15 min"
+        },
+        {
+          "label": "Ad Waste Saved",
+          "value": "$42,000+"
+        },
+        {
+          "label": "Response Time",
+          "value": "< 2 min"
+        }
+      ],
+      "githubUrl": "https://github.com/sayedahmedsijan",
+      "featured": true,
+      "published": true,
+      "displayOrder": 3
+    }
+  ],
+  "services": [
+    {
+      "id": "serv-1",
+      "title": "Meta & TikTok Ads Performance Scaling",
+      "shortDesc": "Full-funnel paid social acquisition engineered for explosive e-commerce ROAS and customer acquisition.",
+      "fullDesc": "We build end-to-end paid advertising engines on Facebook, Instagram, and TikTok. Utilizing Advantage+ Shopping Campaigns, creative matrix testing, dynamic product ads, and precision retargeting to maximize profitability.",
+      "icon": "TrendingUp",
+      "category": "Paid Advertising",
+      "deliverables": [
+        "Full-funnel campaign structure (Top/Middle/Bottom of Funnel)",
+        "Weekly creative matrix testing & ad copy variations",
+        "Audience segmentation & Lookalike generation",
+        "Server-side Meta Conversions API (CAPI) setup",
+        "Weekly performance dashboard & ROI reporting"
+      ],
+      "idealClient": "E-commerce, D2C brands, and high-ticket service businesses spending $3,000+/mo.",
+      "typicalOutcome": "3.5x–5x+ Blended ROAS with predictable month-over-month revenue growth.",
+      "startingPrice": "$1,200 / month",
+      "ctaText": "Inquire About Paid Social",
+      "ctaUrl": "#contact",
+      "tools": [
+        "Meta Ads Manager",
+        "TikTok Ads",
+        "Meta CAPI",
+        "Looker Studio"
+      ],
+      "color": "from-blue-500/20 to-indigo-500/20",
+      "featured": true,
+      "displayOrder": 1,
+      "published": true
+    },
+    {
+      "id": "serv-2",
+      "title": "Google Ads & Performance Max Management",
+      "shortDesc": "Capture high-intent ready-to-buy customers through Search, Shopping feeds, and automated PMax.",
+      "fullDesc": "Dominate high-converting commercial intent keywords on Google. We optimize Search ads with negative keyword trees, structured asset extensions, Google Merchant Center feed scrubbing, and Performance Max asset groups.",
+      "icon": "Target",
+      "category": "Paid Advertising",
+      "deliverables": [
+        "Comprehensive keyword intent research & negative lists",
+        "Google Merchant Center product feed optimization",
+        "Performance Max multi-asset group structuring",
+        "Conversion tracking verification & value-based bidding",
+        "Competitor impression share dominance"
+      ],
+      "idealClient": "E-commerce stores with product catalogs, B2B SaaS, and local service contractors.",
+      "typicalOutcome": "Lowest possible Customer Acquisition Cost with high transaction intent.",
+      "startingPrice": "$1,000 / month",
+      "ctaText": "Scale With Google Ads",
+      "ctaUrl": "#contact",
+      "tools": [
+        "Google Ads",
+        "Google Merchant Center",
+        "GA4",
+        "Looker Studio"
+      ],
+      "color": "from-amber-500/20 to-orange-500/20",
+      "featured": true,
+      "displayOrder": 2,
+      "published": true
+    },
+    {
+      "id": "serv-3",
+      "title": "Technical & Local SEO / Google Map Pack",
+      "shortDesc": "Outrank competitors organically and capture 100% of high-intent local map search traffic.",
+      "fullDesc": "Comprehensive search engine optimization combining deep technical audits (Core Web Vitals, Schema microdata, site speed) with Google Business Profile optimization and localized content authority building.",
+      "icon": "Search",
+      "category": "SEO",
+      "deliverables": [
+        "Complete 50-point technical website health audit",
+        "Core Web Vitals & speed optimization",
+        "Google Business Profile map pack ranking setup",
+        "Structured schema markup (LocalBusiness, Product, FAQ)",
+        "High-intent commercial keyword ranking strategy"
+      ],
+      "idealClient": "Local businesses, healthcare, contractors, and national brands targeting organic traffic.",
+      "typicalOutcome": "+80% to +200% increase in sustainable organic visitors with zero ad spend.",
+      "startingPrice": "$800 / month",
+      "ctaText": "Start SEO Overhaul",
+      "ctaUrl": "#contact",
+      "tools": [
+        "Ahrefs",
+        "Semrush",
+        "Screaming Frog",
+        "Google Search Console"
+      ],
+      "color": "from-emerald-500/20 to-teal-500/20",
+      "featured": true,
+      "displayOrder": 3,
+      "published": true
+    },
+    {
+      "id": "serv-4",
+      "title": "AI Marketing Automation & Custom Python Scripts",
+      "shortDesc": "Automate repetitive marketing workflows, real-time alerting, and autonomous ad copy pipelines.",
+      "fullDesc": "We bridge software engineering with digital marketing by building custom Python bots, automated Slack/Telegram alerting systems, and generative AI prompt pipelines to test dozens of ad hooks without manual overhead.",
+      "icon": "Bot",
+      "category": "AI & Automation",
+      "deliverables": [
+        "Custom Python scripts for Meta/Google API reporting",
+        "Real-time CPA drift alert bots on Telegram/Slack",
+        "Automated AI creative matrix generation pipelines",
+        "Zapier/Make lead routing & CRM integrations",
+        "Automated weekly executive reporting dashboards"
+      ],
+      "idealClient": "Agencies, marketing teams, and high-volume e-commerce brands needing automation.",
+      "typicalOutcome": "Save 15+ hours of manual reporting every week with instant anomaly prevention.",
+      "startingPrice": "$1,500 one-time / retainer",
+      "ctaText": "Build AI Automation",
+      "ctaUrl": "#contact",
+      "tools": [
+        "Python",
+        "Meta Graph API",
+        "OpenAI/Gemini",
+        "Docker",
+        "Zapier"
+      ],
+      "color": "from-purple-500/20 to-pink-500/20",
+      "featured": true,
+      "displayOrder": 4,
+      "published": true
+    },
+    {
+      "id": "serv-5",
+      "title": "One-Time Growth & Tracking Audit (40-Point)",
+      "shortDesc": "A comprehensive forensic audit of your ad accounts, pixel health, tracking fidelity, and CRO.",
+      "fullDesc": "Get a crystal-clear diagnosis of where your marketing budget is leaking. We review ad account structure, creative performance, pixel firing, GTM triggers, Google Analytics 4 attribution, and checkout conversion bottlenecks with a 7-day action roadmap.",
+      "icon": "Zap",
+      "category": "Audits",
+      "deliverables": [
+        "40-Point Full Funnel Audit Document",
+        "Pixel & GA4 Tracking Diagnostic",
+        "Ad Account Waste Reduction Recommendations",
+        "Actionable 7-Day Growth Execution Roadmap",
+        "60-Minute 1-on-1 Video Strategy Debrief"
+      ],
+      "idealClient": "Founders and marketing directors wanting clear direction before scaling spend.",
+      "typicalOutcome": "Identify 20%–40% immediate ad budget savings and quick-win CRO lifts.",
+      "startingPrice": "$450 one-time",
+      "ctaText": "Book Growth Audit",
+      "ctaUrl": "#contact",
+      "tools": [
+        "Meta Pixel Helper",
+        "Tag Assistant",
+        "GA4 DebugView",
+        "Lighthouse"
+      ],
+      "color": "from-rose-500/20 to-red-500/20",
+      "featured": true,
+      "displayOrder": 5,
+      "published": true
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "$4.2M+ Profitable Ad Spend Managed",
+      "description": "Successfully deployed capital across Meta, Google, and TikTok with an average portfolio blended ROAS of 3.8x.",
+      "date": "2025",
+      "organization": "Portfolio Milestone",
+      "image": "/assets/profile.jpg",
+      "displayOrder": 1,
+      "published": true
+    },
+    {
+      "id": "ach-2",
+      "title": "Top Rated Performance Marketer",
+      "description": "Completed 80+ client engagements with 94% retention and 5-star verified client satisfaction ratings.",
+      "date": "2024",
+      "organization": "Client Success Milestone",
+      "image": "/assets/profile.jpg",
+      "displayOrder": 2,
+      "published": true
+    },
+    {
+      "id": "ach-3",
+      "title": "Bachelor of Science (B.Sc Honours)",
+      "description": "Graduated in Science from National University Gaibandha with high academic honors in quantitative research.",
+      "date": "2020",
+      "organization": "National University",
+      "image": "/assets/profile.jpg",
+      "displayOrder": 3,
+      "published": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "David Reynolds",
+      "company": "Veloce Apparel Co.",
+      "position": "Co-Founder & CEO",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "testimonial": "Sayed revolutionized our Facebook ad strategy. We were stuck at 1.8x ROAS and struggling to break even. Within 90 days, his Advantage+ testing and dynamic copy flywheels scaled our store to over $110,000/month at a 4.2x ROAS. He is our most valued growth partner.",
+      "rating": 5,
+      "projectType": "E-commerce Paid Social Scaling",
+      "resultHighlight": "+633% Revenue Growth at 4.2x ROAS",
+      "date": "2024-08-10",
+      "displayOrder": 1,
+      "published": true
+    },
+    {
+      "id": "test-2",
+      "name": "Sarah Jenkins",
+      "company": "Apex Clean Energy Solutions",
+      "position": "VP of Marketing",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&q=80",
+      "testimonial": "The lead generation system Sayed built for our regional roofing and solar operations exceeded all expectations. We saw our cost per qualified lead drop by 38% while our local Google Map Pack rankings reached #1 across all 8 target cities.",
+      "rating": 5,
+      "projectType": "Local SEO & Google Ads Engine",
+      "resultHighlight": "320% Lead Increase at -38% CPA",
+      "date": "2024-06-25",
+      "displayOrder": 2,
+      "published": true
+    },
+    {
+      "id": "test-3",
+      "name": "Marcus Sterling",
+      "company": "Kinetix SaaS Platforms",
+      "position": "Chief Revenue Officer",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "testimonial": "Sayed’s technical proficiency in server-side GA4 tracking, Meta CAPI, and Python automation sets him apart from 99% of digital marketers. He doesn’t just run ads; he builds automated growth infrastructure that works like clockwork.",
+      "rating": 5,
+      "projectType": "AI Marketing Automation & GA4 CAPI",
+      "resultHighlight": "100% Attribution Precision & Alert Automation",
+      "date": "2024-04-18",
+      "displayOrder": 3,
+      "published": true
+    }
+  ],
+  "socialLinks": [
+    {
+      "id": "soc-1",
+      "platform": "WhatsApp",
+      "url": "https://wa.me/8801763810310?text=Hi%20Sayed,%20I%20saw%20your%20portfolio!",
+      "icon": "Phone",
+      "displayOrder": 1,
+      "enabled": true
+    },
+    {
+      "id": "soc-2",
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/sayed-ahmed-sijan",
+      "icon": "Linkedin",
+      "displayOrder": 2,
+      "enabled": true
+    },
+    {
+      "id": "soc-3",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ahmedsijan310",
+      "icon": "Facebook",
+      "displayOrder": 3,
+      "enabled": true
+    },
+    {
+      "id": "soc-4",
+      "platform": "GitHub",
+      "url": "https://github.com/sayedahmedsijan",
+      "icon": "Github",
+      "displayOrder": 4,
+      "enabled": true
+    },
+    {
+      "id": "soc-5",
+      "platform": "Email",
+      "url": "mailto:Ahmedsijan97@gmail.com",
+      "icon": "Mail",
+      "displayOrder": 5,
+      "enabled": true
+    }
+  ],
+  "contact": {
+    "email": "Ahmedsijan97@gmail.com",
+    "phone": "+880 1763 810310",
+    "whatsappUrl": "https://wa.me/8801763810310?text=Hi%20Sayed,%20I%20saw%20your%20portfolio!",
+    "location": "Gaibandha / Dhaka, Bangladesh (Available Worldwide Remote)",
+    "officeAddress": "Gaibandha, Rangpur Division, Bangladesh",
+    "googleMapsUrl": "https://maps.google.com/?q=Gaibandha,Bangladesh",
+    "formEnabled": true,
+    "notificationEmail": "Ahmedsijan97@gmail.com",
+    "successMessage": "Thank you! Your project inquiry has been received. Sayed will review your details and respond within 24 business hours."
+  },
+  "navigation": [
+    {
+      "id": "nav-1",
+      "name": "Home",
+      "slug": "home",
+      "icon": "Home",
+      "displayOrder": 1,
+      "visible": true
+    },
+    {
+      "id": "nav-2",
+      "name": "About",
+      "slug": "about",
+      "icon": "User",
+      "displayOrder": 2,
+      "visible": true
+    },
+    {
+      "id": "nav-3",
+      "name": "Experience",
+      "slug": "experience",
+      "icon": "Briefcase",
+      "displayOrder": 3,
+      "visible": true
+    },
+    {
+      "id": "nav-4",
+      "name": "Skills",
+      "slug": "skills",
+      "icon": "Layers",
+      "displayOrder": 4,
+      "visible": true
+    },
+    {
+      "id": "nav-5",
+      "name": "Services",
+      "slug": "services",
+      "icon": "Zap",
+      "displayOrder": 5,
+      "visible": true
+    },
+    {
+      "id": "nav-6",
+      "name": "Case Studies",
+      "slug": "case-studies",
+      "icon": "TrendingUp",
+      "displayOrder": 6,
+      "visible": true
+    },
+    {
+      "id": "nav-7",
+      "name": "Certificates",
+      "slug": "certifications",
+      "icon": "Award",
+      "displayOrder": 7,
+      "visible": true
+    },
+    {
+      "id": "nav-8",
+      "name": "Projects",
+      "slug": "projects",
+      "icon": "FolderGit2",
+      "displayOrder": 8,
+      "visible": true
+    },
+    {
+      "id": "nav-9",
+      "name": "Testimonials",
+      "slug": "testimonials",
+      "icon": "MessageSquare",
+      "displayOrder": 9,
+      "visible": true
+    },
+    {
+      "id": "nav-10",
+      "name": "Contact",
+      "slug": "contact",
+      "icon": "Mail",
+      "displayOrder": 10,
+      "visible": true
+    }
+  ],
+  "seo": {
+    "websiteTitle": "Sayed Ahmed Sijan — Digital Marketer & AI Performance Specialist",
+    "metaDescription": "Portfolio of Sayed Ahmed Sijan — Digital Marketer & AI Performance Specialist helping e-commerce and local brands scale with data-driven Ads, SEO & AI automation.",
+    "keywords": [
+      "Digital Marketer",
+      "AI Marketing Specialist",
+      "Meta Ads Expert",
+      "Google Ads PMax",
+      "SEO Consultant Bangladesh",
+      "Sayed Ahmed Sijan",
+      "ROAS Optimization",
+      "Python Marketing Automation"
+    ],
+    "author": "Sayed Ahmed Sijan",
+    "canonicalUrl": "https://sayedahmedsijan.com",
+    "ogTitle": "Sayed Ahmed Sijan — Digital Marketer & AI Performance Specialist",
+    "ogDescription": "Managed $4.2M+ profitable ad spend with 3.8x average ROAS. Explore case studies, client results, and growth systems.",
+    "ogImage": "/assets/profile.jpg",
+    "twitterTitle": "Sayed Ahmed Sijan — Digital Marketer & AI Specialist",
+    "twitterDescription": "Data-driven performance marketing, SEO, and AI automation systems.",
+    "twitterImage": "/assets/profile.jpg",
+    "robotsTxt": "User-agent: *\nAllow: /\nSitemap: https://sayedahmedsijan.com/sitemap.xml",
+    "sitemapXml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://sayedahmedsijan.com/</loc><priority>1.0</priority></url>\n</urlset>",
+    "structuredDataJson": "{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Sayed Ahmed Sijan\",\"jobTitle\":\"Digital Marketer & AI Performance Specialist\",\"url\":\"https://sayedahmedsijan.com\"}",
+    "pageSeo": {
+      "home": {
+        "title": "Sayed Ahmed Sijan — Digital Marketer & AI Performance Specialist",
+        "description": "Home of Sayed Ahmed Sijan, performance marketing and AI consultant."
+      },
+      "about": {
+        "title": "About Sayed Ahmed Sijan — B.Sc Science & Growth Specialist",
+        "description": "Academic background, journey, and marketing philosophy of Sayed Ahmed Sijan."
+      },
+      "projects": {
+        "title": "Selected Projects & Case Studies — Sayed Ahmed Sijan",
+        "description": "Real-world campaign results scaling revenue to $110k+/mo."
+      },
+      "services": {
+        "title": "Growth Packages & Marketing Services — Sayed Ahmed Sijan",
+        "description": "Meta Ads, Google Ads PMax, SEO audits, and custom AI automations."
+      },
+      "contact": {
+        "title": "Book Strategy Consultation — Sayed Ahmed Sijan",
+        "description": "Get in touch for performance marketing retainers and audits."
+      }
+    }
+  },
+  "siteSettings": {
+    "websiteName": "Sayed Ahmed Sijan",
+    "logoUrl": "/assets/profile.jpg",
+    "faviconUrl": "/app-favicon.ico",
+    "primaryColor": "#e7040f",
+    "secondaryColor": "#ffffff",
+    "accentColor": "#e7040f",
+    "maintenanceMode": false,
+    "maintenanceMessage": "We are currently deploying exciting new growth systems and case studies. Please check back shortly or connect directly on WhatsApp (+880 1763 810310).",
+    "animationsEnabled": true,
+    "allowChat": true,
+    "defaultTheme": "obsidian-crimson"
+  },
+  "media": [
+    {
+      "id": "media-1",
+      "filename": "profile.jpg",
+      "originalName": "sayed_portrait.jpg",
+      "url": "/assets/profile.jpg",
+      "mimeType": "image/jpeg",
+      "size": 284500,
+      "uploadedAt": "2026-09-02T07:23:46.223Z"
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "log-1788334143004-m33j",
+      "user": "Sayed10",
+      "action": "Admin Login",
+      "details": "Admin user authenticated successfully.",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-09-02T07:29:03.004Z"
+    },
+    {
+      "id": "log-1788334141537-xjoo",
+      "user": "Sayed10",
+      "action": "Admin Logout",
+      "details": "Admin user logged out.",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-09-02T07:29:01.537Z"
+    },
+    {
+      "id": "log-1788334110065-sq1o",
+      "user": "Sayed10",
+      "action": "Admin Login",
+      "details": "Admin user authenticated successfully.",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-09-02T07:28:30.065Z"
+    },
+    {
+      "id": "log-1",
+      "user": "System",
+      "action": "Database Initialized",
+      "details": "Initial database schema and default portfolio content seeded successfully.",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-09-02T07:23:46.223Z"
+    }
+  ]
+}
