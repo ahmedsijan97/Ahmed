@@ -169,7 +169,7 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
     ...PERSONAL_INFO,
     nationality: 'Bangladeshi',
     address: 'Gaibandha & Dhaka, Bangladesh',
-    cvUrl: '/assets/Sayed_Ahmed_Sijan_CV.pdf'
+    cvUrl: './assets/Sayed_Ahmed_Sijan_CV.pdf'
   },
   hero: {
     greeting: "HELLO, I'M SAYED AHMED SIJAN",
@@ -178,7 +178,7 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
     mainHeadline: 'I Turn Marketing Data Into Measurable Growth',
     headlineHighlight: 'Measurable Growth',
     shortDescription: 'Helping e-commerce and local brands scale with data-driven Ads, SEO, and AI automation. Managed over $4.2M+ ad spend with 3.8x average blended ROAS.',
-    profileImage: '/assets/profile.jpg',
+    profileImage: './assets/profile.jpg',
     primaryButtonText: 'Explore Case Studies',
     primaryButtonUrl: '#case-studies',
     secondaryButtonText: 'Book Strategy Call',
@@ -195,7 +195,7 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
     mission: 'To empower forward-thinking brands with transparent, high-ROI marketing systems powered by algorithmic precision and autonomous AI workflows.',
     vision: 'To bridge data science, creative psychology, and marketing automation into seamless growth flywheels that scale revenue sustainably.',
     careerSummary: 'Over 5+ years of hands-on media buying, 80+ completed projects, $4.2M+ in managed ad spend, and consistently ranking client websites on page 1 of Google.',
-    profileImage: '/assets/profile.jpg',
+    profileImage: './assets/profile.jpg',
     signatureText: 'Sayed Ahmed Sijan',
     experienceHighlights: [
       'B.Sc (Honours) Quantitative Analytical Background',
@@ -243,7 +243,7 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
       description: 'Successfully deployed capital across Meta, Google, and TikTok with an average portfolio blended ROAS of 3.8x.',
       date: '2025',
       organization: 'Portfolio Milestone',
-      image: '/assets/profile.jpg',
+      image: './assets/profile.jpg',
       displayOrder: 1
     },
     {
@@ -252,7 +252,7 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
       description: 'Completed 80+ client engagements with 94% retention and 5-star verified client satisfaction ratings.',
       date: '2024',
       organization: 'Client Success Milestone',
-      image: '/assets/profile.jpg',
+      image: './assets/profile.jpg',
       displayOrder: 2
     },
     {
@@ -261,7 +261,7 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
       description: 'Graduated in Science from National University Gaibandha with high academic honors in quantitative research.',
       date: '2020',
       organization: 'National University',
-      image: '/assets/profile.jpg',
+      image: './assets/profile.jpg',
       displayOrder: 3
     }
   ],
@@ -304,10 +304,10 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
     canonicalUrl: 'https://sayedahmedsijan.com',
     ogTitle: 'Sayed Ahmed Sijan — Digital Marketer & AI Performance Specialist',
     ogDescription: 'Managed $4.2M+ profitable ad spend with 3.8x average ROAS. Explore case studies, client results, and growth systems.',
-    ogImage: '/assets/profile.jpg',
+    ogImage: './assets/profile.jpg',
     twitterTitle: 'Sayed Ahmed Sijan — Digital Marketer & AI Specialist',
     twitterDescription: 'Data-driven performance marketing, SEO, and AI automation systems.',
-    twitterImage: '/assets/profile.jpg',
+    twitterImage: './assets/profile.jpg',
     robotsTxt: 'User-agent: *\nAllow: /\nSitemap: https://sayedahmedsijan.com/sitemap.xml',
     sitemapXml: '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>https://sayedahmedsijan.com/</loc><priority>1.0</priority></url>\n</urlset>',
     structuredDataJson: '{"@context":"https://schema.org","@type":"Person","name":"Sayed Ahmed Sijan","jobTitle":"Digital Marketer & AI Performance Specialist","url":"https://sayedahmedsijan.com"}',
@@ -321,8 +321,8 @@ const DEFAULT_PUBLIC_DATA: PublicPortfolioData = {
   },
   siteSettings: {
     websiteName: 'Sayed Ahmed Sijan',
-    logoUrl: '/assets/profile.jpg',
-    faviconUrl: '/app-favicon.ico',
+    logoUrl: './assets/profile.jpg',
+    faviconUrl: './app-favicon.ico',
     primaryColor: '#e7040f',
     secondaryColor: '#ffffff',
     accentColor: '#e7040f',

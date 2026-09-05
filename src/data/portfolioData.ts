@@ -15,7 +15,7 @@ export const PERSONAL_INFO = {
   name: 'Sayed Ahmed Sijan',
   title: 'Digital Marketer & AI Performance Specialist',
   badge: 'AVAILABLE FOR SELECT PROJECTS',
-  avatar: '/assets/profile.jpg',
+  avatar: './assets/profile.jpg',
   headline: 'I Turn Marketing Data Into Measurable Growth.',
   supportingText: 'Digital Marketer & AI Performance Specialist helping e-commerce and local brands scale with data-driven Ads, SEO, and AI automation.',
   bio: 'Helping e-commerce and local brands scale with data-driven Ads, SEO & AI automation. Combining deep analytical science with high-velocity algorithmic advertising and automated Python workflows to maximize customer acquisition and ROAS.',

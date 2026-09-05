@@ -43,9 +43,11 @@ function PortfolioMain() {
   const [selectedExperience, setSelectedExperience] = useState<ExperienceItem | null>(null);
   const [selectedServiceInquiry, setSelectedServiceInquiry] = useState<string>('');
   const [isAdminView, setIsAdminView] = useState<boolean>(() => {
+    const path = window.location.pathname.replace(/\/$/, '');
     return (
       window.location.hash.startsWith('#admin') ||
-      window.location.pathname.startsWith('/admin') ||
+      path === '/admin' ||
+      path.endsWith('/admin') ||
       window.location.search.includes('admin=1')
     );
   });
