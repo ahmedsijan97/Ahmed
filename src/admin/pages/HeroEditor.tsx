@@ -68,7 +68,9 @@ export function HeroEditor() {
           {
             label: 'Client Satisfaction',
             value: '99%',
-            subtext: 'Verified client reviews'
+            numericValue: 99,
+            suffix: '%',
+            description: 'Verified client reviews'
           }
         ]
       };
@@ -355,9 +357,9 @@ export function HeroEditor() {
                   />
                   <input
                     type="text"
-                    placeholder="Subtext"
-                    value={stat.subtext}
-                    onChange={(e) => handleUpdateTrustStat(idx, 'subtext', e.target.value)}
+                    placeholder="Description"
+                    value={stat.description || (stat as any).subtext || ''}
+                    onChange={(e) => handleUpdateTrustStat(idx, 'description', e.target.value)}
                     className="w-full bg-slate-900 border border-slate-800 rounded-lg px-2.5 py-1 text-xs text-slate-500"
                   />
                 </div>

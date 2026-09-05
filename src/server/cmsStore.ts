@@ -238,6 +238,10 @@ export interface SeoSettings {
   sitemapXml: string;
   structuredDataJson: string;
   pageSeo: Record<string, { title: string; description: string; keywords?: string }>;
+  siteTitle?: string;
+  metaKeywords?: string;
+  twitterHandle?: string;
+  customSchema?: string;
 }
 
 export interface PersonalInfo {
@@ -251,6 +255,7 @@ export interface PersonalInfo {
   bio: string;
   email: string;
   phone: string;
+  whatsapp?: string;
   whatsappUrl: string;
   location: string;
   nationality?: string;

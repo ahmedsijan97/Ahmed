@@ -327,7 +327,7 @@ export function AdminDashboard({ onNavigate, onOpenLivePreview, onOpenPublicSite
                   <div className="w-2 h-2 rounded-full bg-purple-400" />
                   <div>
                     <span className="font-semibold text-white">{log.action}</span>
-                    <span className="text-slate-400 ml-2">by {log.username}</span>
+                    <span className="text-slate-400 ml-2">by {(log as any).username || log.user}</span>
                   </div>
                 </div>
                 <div className="text-slate-500 font-mono text-[11px]">

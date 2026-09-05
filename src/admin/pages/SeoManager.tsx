@@ -55,7 +55,7 @@ export function SeoManager() {
                 <span>{formData.canonicalUrl || 'https://sayedahmedsijan.com'}</span>
               </div>
               <div className="text-base text-blue-400 font-medium hover:underline cursor-pointer">
-                {formData.siteTitle || 'Sayed Ahmed Sijan | Performance Marketer'}
+                {formData.websiteTitle || 'Sayed Ahmed Sijan | Performance Marketer'}
               </div>
               <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                 {formData.metaDescription || 'Add a meta description to see how it appears in search results...'}
@@ -71,13 +71,13 @@ export function SeoManager() {
               <div className="flex items-center justify-between mb-1">
                 <label className="text-xs font-semibold text-slate-400">Site Title (&lt;title&gt;)</label>
                 <span className="text-[10px] text-slate-500 font-mono">
-                  {formData.siteTitle.length} / 60 chars
+                  {(formData.websiteTitle || '').length} / 60 chars
                 </span>
               </div>
               <input
                 type="text"
-                value={formData.siteTitle}
-                onChange={(e) => setFormData({ ...formData, siteTitle: e.target.value })}
+                value={formData.websiteTitle || ''}
+                onChange={(e) => setFormData({ ...formData, websiteTitle: e.target.value })}
                 className="w-full bg-slate-950 border border-slate-800 rounded-xl px-3.5 py-2 text-sm text-white focus:border-purple-500 outline-none font-bold"
               />
             </div>
@@ -86,7 +86,7 @@ export function SeoManager() {
               <div className="flex items-center justify-between mb-1">
                 <label className="text-xs font-semibold text-slate-400">Meta Description</label>
                 <span className="text-[10px] text-slate-500 font-mono">
-                  {formData.metaDescription.length} / 160 chars
+                  {(formData.metaDescription || '').length} / 160 chars
                 </span>
               </div>
               <textarea
@@ -101,10 +101,10 @@ export function SeoManager() {
               <label className="block text-xs font-semibold text-slate-400 mb-1">Meta Keywords (Comma separated)</label>
               <input
                 type="text"
-                value={formData.metaKeywords?.join(', ') || ''}
+                value={formData.keywords?.join(', ') || ''}
                 onChange={(e) => setFormData({
                   ...formData,
-                  metaKeywords: e.target.value.split(',').map((s) => s.trim()).filter(Boolean)
+                  keywords: e.target.value.split(',').map((s) => s.trim()).filter(Boolean)
                 })}
                 placeholder="Meta Ads, Performance Marketing, Media Buying, ROAS Scaling"
                 className="w-full bg-slate-950 border border-slate-800 rounded-xl px-3.5 py-2 text-sm text-white focus:border-purple-500 outline-none"
@@ -145,8 +145,8 @@ export function SeoManager() {
             <p className="text-xs text-slate-400">Schema.org Person / ProfessionalService entity markup for Google Knowledge Graph.</p>
             <textarea
               rows={8}
-              value={formData.customSchema || ''}
-              onChange={(e) => setFormData({ ...formData, customSchema: e.target.value })}
+              value={formData.structuredDataJson || formData.customSchema || ''}
+              onChange={(e) => setFormData({ ...formData, structuredDataJson: e.target.value })}
               className="w-full bg-slate-950 border border-slate-800 rounded-xl p-3 text-xs text-purple-300 font-mono focus:border-purple-500 outline-none leading-relaxed"
             />
           </div>
